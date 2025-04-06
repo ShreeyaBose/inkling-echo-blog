@@ -1,4 +1,3 @@
-
 import { Author, Category, Post } from './types';
 
 export const authors: Author[] = [
@@ -217,7 +216,7 @@ Creating a sustainable home office isn't about achieving perfection—it's about
   },
   {
     id: '5',
-    title: 'The Science of Sourdough: Beginner's Guide',
+    title: "The Science of Sourdough: Beginner's Guide",
     slug: 'sourdough-science-beginners-guide',
     excerpt: 'Unlock the mysteries behind perfect sourdough bread with this science-based approach for beginners.',
     content: `
